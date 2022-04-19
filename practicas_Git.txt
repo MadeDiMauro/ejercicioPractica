@@ -1,3 +1,7 @@
 practicando con Git
 
+
 archi vo modificado por Diego
+
+hola mundo
+renegando con git
